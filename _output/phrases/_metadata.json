@@ -1,0 +1,26 @@
+{
+    "option.thbanpermissions_allowConversations.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "f60675b588c2efe91c1fb2ff6a3dc518"
+    },
+    "option_explain.thbanpermissions_allowConversations.txt": {
+        "global_cache": false,
+        "version_id": 1000031,
+        "version_string": "1.0.0 Beta 1",
+        "hash": "fd493410e9713fcefdb032f4d251a8cb"
+    },
+    "option_group.thbanpermissions.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "bcd4e5bd19bfc019e3f34fd3d40c4163"
+    },
+    "option_group_description.thbanpermissions.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "f1626ebdf41e51e43b70a1a272743e90"
+    }
+}

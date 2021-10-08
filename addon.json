@@ -1,0 +1,19 @@
+{
+    "legacy_addon_id": "",
+    "title": "[TH] Banned User Conversation Access",
+    "description": "Allow your members to access conversations even when they are banned.",
+    "version_id": 1000070,
+    "version_string": "1.0.0",
+    "dev": "ThemeHouse",
+    "dev_url": "https://www.themehouse.com",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": [],
+    "require": {
+        "XF": [
+            2010010,
+            "XenForo 2.1.0+"
+        ]
+    },
+    "icon": "icon.jpg"
+}
